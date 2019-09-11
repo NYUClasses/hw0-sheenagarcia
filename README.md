@@ -9,6 +9,7 @@
 
 [Markdown Tutorial](https://www.markdowntutorial.com/)
 
+
 # My First Github Assignment
 
 1.Create a Heading right above this line &uarr; that says 'My First Github Assignment' 
@@ -18,7 +19,9 @@
 It should look something like this: 
 
 1. Name:
-**Sheena**
+**Sheena Faye Garcia**
+
+_(also fun fact if there's anyone reading this: 'Sheena Faye' is actually my first name. My middle name is 'Besana')_
 
 2. Favourite podcast: 
 _The Sporkful_ 
